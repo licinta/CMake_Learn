@@ -1,0 +1,2 @@
+void say_hello(const char *name1, const char *name2);
+void hello();
